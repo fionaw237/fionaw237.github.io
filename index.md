@@ -1,1 +1,1 @@
-## Welcome to Gihub Pages
+## Welcome to Github Pages
